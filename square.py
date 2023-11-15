@@ -1,4 +1,4 @@
-altura = int(input("meidda da altura: "))
+altura = int(input("medida da altura: "))
 largura = int(input("medida da largura: "))
 ab = "a"
 
